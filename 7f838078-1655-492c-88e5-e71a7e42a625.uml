@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>7f838078-1655-492c-88e5-e71a7e42a625</OriginalElement>
+  <nodes>
+    <node x="824.0" y="907.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.conversation</node>
+    <node x="723.0" y="0.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.quizzes</node>
+    <node x="929.0" y="0.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_quizzes</node>
+    <node x="0.0" y="0.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_user</node>
+    <node x="253.0" y="361.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.announcement</node>
+    <node x="0.0" y="907.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.class_quiz_average</node>
+    <node x="253.0" y="678.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_questions</node>
+    <node x="241.0" y="0.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_users</node>
+    <node x="0.0" y="361.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_announcements</node>
+    <node x="390.0" y="907.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.student_announcements</node>
+    <node x="197.0" y="1114.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.friendslist</node>
+    <node x="635.0" y="907.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.friend_request</node>
+    <node x="485.0" y="678.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.questions</node>
+    <node x="697.0" y="361.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.user_results</node>
+    <node x="475.0" y="361.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.announcements</node>
+    <node x="0.0" y="678.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_notifications</node>
+    <node x="924.0" y="678.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.classes</node>
+    <node x="902.0" y="361.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.class_result</node>
+    <node x="0.0" y="1114.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.student_classes</node>
+    <node x="997.0" y="907.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.user_conversations</node>
+    <node x="717.0" y="678.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.bluebook_classes</node>
+    <node x="221.0" y="907.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.message</node>
+    <node x="482.0" y="0.0">7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.users</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.6760330578512397" x="737.3877423960658" y="817.4287371065527" />
+  <SelectedNodes>
+    <node>7f838078-1655-492c-88e5-e71a7e42a625.TABLE:bluebook.conversation</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
